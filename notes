@@ -1,0 +1,27 @@
+website 1.0
+get request-page refresh
+web 2.0 single page applications
+(no refreshing) (AJAX)
+AJAX- Without refreshing and reloading of page
+AJAX- asynchronous javascript and xml
+javascript object that interacts with server without refreshing
+DOM manipulation
+API- web2.0
+exchange data between two different programs
+between node server and js engine(API'S)
+
+API'S
+ Server( two parts)
+--views code
+--data code
+API server-localhost.../api/... (data server)
+third party api's
+REST ---( RESTFUL API'S) READ ABOUT IT
+     POST
+     GET
+     PUT
+     DELETE
+POSTMAN ( tool to test the API's) or write javascript file to test them.
+
+
+
